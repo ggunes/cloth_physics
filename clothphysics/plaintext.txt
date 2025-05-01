@@ -1,0 +1,21 @@
+
+## How to Run
+
+Follow these steps to run the project:
+
+1. Save all files to your computer
+2. Start a simple HTTP server (instead of opening files directly in the browser)
+
+```bash
+# To start a simple HTTP server with Python:
+python -m http.server
+
+# Or with Node.js:
+npx http-server```
+
+```bash
+# To start a simple HTTP server with Python:
+python -m http.server
+
+# Or with Node.js:
+npx http-server```
